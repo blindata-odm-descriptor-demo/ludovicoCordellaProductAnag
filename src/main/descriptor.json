@@ -1,0 +1,19 @@
+{
+  "dataProductDescriptor" : "1.0.0",
+  "info" : {
+    "fullyQualifiedName" : "urn:dpds:crifPlayground:dataproducts:ludovicoCordellaProductAnag:1",
+    "domain" : "ludovicocordellaRetail",
+    "name" : "ludovicoCordellaProductAnag",
+    "displayName" : "Ludovico Cordella Product Anag",
+    "description" : "data product that manages product master data",
+    "version" : "1.0.0",
+    "owner" : {
+      "id" : "l.cordella@crif.com",
+      "name" : "Ludovico Cordella"
+    }
+  },
+  "interfaceComponents" : {
+    "inputPorts" : [ ],
+    "outputPorts" : [ ]
+  }
+}
