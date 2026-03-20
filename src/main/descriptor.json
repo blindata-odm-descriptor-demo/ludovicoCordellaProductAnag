@@ -10,7 +10,13 @@
     "owner" : {
       "id" : "l.cordella@crif.com",
       "name" : "Ludovico Cordella"
-    }
+    },
+    "contactPoints" : [ {
+      "name" : "Tech Owner",
+      "address" : "nome.cognome@mail.it",
+      "channel" : "mail",
+      "description" : "Data Product Tech Owner"
+    } ]
   },
   "interfaceComponents" : {
     "inputPorts" : [ ],
