@@ -6,7 +6,7 @@
     "name" : "ludovicoCordellaProductAnag",
     "displayName" : "Ludovico Cordella Product Anag",
     "description" : "data product that manages product master data",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "owner" : {
       "id" : "l.cordella@crif.com",
       "name" : "Ludovico Cordella"
@@ -48,7 +48,7 @@
             "schema" : {
               "databaseSchemaName" : "cdm",
               "tables" : [ {
-                "version" : "1.0.0",
+                "version" : "1.0.1",
                 "specification" : "json-schema",
                 "specificationVersion" : "1",
                 "definition" : {
@@ -63,6 +63,13 @@
                       "physicalType" : "integer",
                       "description" : "",
                       "ordinalPosition" : 1
+                    },
+                    "sku_code" : {
+                      "name" : "sku_code",
+                      "displayName" : "sku_code",
+                      "physicalType" : "varchar",
+                      "description" : "",
+                      "ordinalPosition" : 2
                     }
                   },
                   "s-context" : {
