@@ -6,7 +6,7 @@
     "name" : "ludovicoCordellaProductAnag",
     "displayName" : "Ludovico Cordella Product Anag",
     "description" : "data product that manages product master data",
-    "version" : "1.0.1",
+    "version" : "1.0.2",
     "owner" : {
       "id" : "l.cordella@crif.com",
       "name" : "Ludovico Cordella"
@@ -48,7 +48,7 @@
             "schema" : {
               "databaseSchemaName" : "cdm",
               "tables" : [ {
-                "version" : "1.0.1",
+                "version" : "1.0.2",
                 "specification" : "json-schema",
                 "specificationVersion" : "1",
                 "definition" : {
